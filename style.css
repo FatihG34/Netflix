@@ -1,0 +1,49 @@
+body {
+    background-image: url("./background_image.jpg");
+    color: #ffffff;
+}
+#container {
+    margin: 3rem 6.25rem;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+header {
+    text-align: center;
+    font-variant: small-caps;
+    font-size: 50px;
+    font-family: Bowlby One SC;
+    letter-spacing: 0.1em;
+}
+#flix {
+    color: red;
+    font-variant: small-caps;
+}
+p {
+    text-align: center;
+    font-family: Sorts Mill Goudy;
+    font-size: 1.5rem;
+}
+#surver_form {
+    font-family: Roboto, BlinkMacSystemFont, 'Segoe UI',  Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* margin: 10rem 30rem; */
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.7);
+
+    width: 32rem;
+    /* height: 56rem; */
+}
+.box { 
+    margin: 4%;
+    
+}
+#submit {
+    border-radius: 3rem;
+    background-color: red;
+    margin: 3rem 10rem;
+    color: white;
+    width: 10rem;
+    height: 3rem;
+}
+.enter_info {
+    width: 28rem;
+    height: 3rem;
+}
